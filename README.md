@@ -4,7 +4,7 @@ This repository contains code for replicating various measures of interdisciplin
 
 # Usage
 
-## Each folder contains code for replicating the measures.
+Each folder contains code for replicating the measures.
 
 These include:
 
