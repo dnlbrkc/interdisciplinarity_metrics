@@ -12,6 +12,6 @@ These include:
 
 **Atypicality**: Uzzi, et al. (2013). Atypical Combinations and Scientific Impact. _Science_. 
 
-**Integration**: Porter, et al (2007). Measuring researcher interdisciplinarity. _Scientometrics_,
+**Integration**: Porter, et al (2007). Measuring researcher interdisciplinarity. _Scientometrics_
 
 
